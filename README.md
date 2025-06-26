@@ -59,7 +59,7 @@ Here are some of the technologies I enjoy working with:
 
 <p align="center">
   <a href="https://linkedin.com/in/arnoldus-bryan-hendry-profile" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="Arnoldus Bryan Hendry LinkedIn" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="Arnoldus Bryan Hendry LinkedIn" height="30" width="40" />
   </a>
   <a href="https://instagram.com/bryan_hendryx" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bryan_hendryx Instagram" height="30" width="40" />

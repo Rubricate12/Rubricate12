@@ -7,7 +7,7 @@
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Rubricate12&color=blueviolet" alt="profile views"/>
 </p>
 

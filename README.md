@@ -36,8 +36,7 @@ I'm passionate about contributing to innovative projects and always eager to col
 ## 💻 My Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rubricate12&hide=ipynb&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Rubricate12's Top Languages" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rubricate12&hide=jupyter%20notebook&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Rubricate12's Top Languages" /></p>
 
 ---
 

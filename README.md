@@ -68,5 +68,5 @@ Here are some of the technologies I enjoy working with:
 ---
 
 <p align="center">
-  <i>"The only way to do great work is to love what you do." - Steve Jobs</i>
+  <i>"When you see a good move, look for a better one." - Emanuel Lasker</i>
 </p>

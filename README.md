@@ -7,10 +7,6 @@
 
 ---
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Rubricate12&color=blueviolet" alt="profile views"/>
-</p>
-
 ## 🚀 About Me
 
 I'm currently an **Undergraduate Informatics Student at Telkom University**, deeply fascinated by the ever-evolving world of technology. My journey in informatics is driven by a strong desire to learn and master new technologies and programming languages.
